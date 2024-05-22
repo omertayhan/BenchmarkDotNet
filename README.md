@@ -20,7 +20,6 @@ Ensure you have .NET 6.0 and .NET 8.0 SDKs installed. You can check installed SD
 dotnet --list-sdks
 ```
 Clone the repository:
-https://github.com/omertayhan/BenchmarkDotNet/edit/master/README.md
 ```bash-
 git clone https://github.com/omertayhan/BenchmarkDotNet.git
 cd BenchmarkDotNet
