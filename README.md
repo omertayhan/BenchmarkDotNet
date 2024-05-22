@@ -34,4 +34,5 @@ dotnet run -c Release
 ```
 Sample Output
 BenchmarkDotNet will output the benchmark results, comparing the performance of each method across .NET 6.0 and .NET 8.0. The results will include metrics such as mean execution time, memory usage, and more.
+
 ![1](https://github.com/omertayhan/BenchmarkDotNet/assets/62504339/879ee444-b876-47d8-b62d-9ba281f2dbd3)
